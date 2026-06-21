@@ -11,6 +11,6 @@
 ## Tech Stack
 - **Ngôn ngữ lập trình:** Python
 - **Môi trường phát triển:** Jupyter Notebook
-- **Deep Learning:** :LSTM
+- **Deep Learning:** LSTM
 - **Data Processing:** Pandas, NumPy
 - **Giao diện ứng dụng:** Streamlit (Triển khai trong app.ipynb)
